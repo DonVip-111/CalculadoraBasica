@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Calculadora.resources
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\usuario\Desktop\GUIA 4_POO104\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Calculadora.resources
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Owner\OneDrive\Escritorio\lab\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb

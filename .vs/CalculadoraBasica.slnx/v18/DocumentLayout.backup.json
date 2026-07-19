@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62AB9134-5944-42EA-B7B2-953DAEBB78DF}|CalculadoraBasica\\CalculadoraBasica.csproj|C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\calculadorabasica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62AB9134-5944-42EA-B7B2-953DAEBB78DF}|CalculadoraBasica\\CalculadoraBasica.csproj|solutionrelative:calculadorabasica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AB9134-5944-42EA-B7B2-953DAEBB78DF}|CalculadoraBasica\\CalculadoraBasica.csproj|c:\\users\\owner\\onedrive\\escritorio\\lab\\calculadorabasica\\calculadorabasica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AB9134-5944-42EA-B7B2-953DAEBB78DF}|CalculadoraBasica\\CalculadoraBasica.csproj|solutionrelative:calculadorabasica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\CalculadoraBasica\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraBasica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\CalculadoraBasica\\Form1.cs",
+              "RelativeToolTip": "CalculadoraBasica\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T17:33:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\CalculadoraBasica\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraBasica\\Form1.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Escritorio\\lab\\CalculadoraBasica\\CalculadoraBasica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraBasica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T17:26:33.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
